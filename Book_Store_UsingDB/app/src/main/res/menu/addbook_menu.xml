@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Menu for the Add Book activity. -->
+
+    <item
+        android:id="@+id/search"
+        android:showAsAction="ifRoom"
+        android:title="@string/search"/>
+    <item
+        android:id="@+id/cancel"
+        android:showAsAction="ifRoom"
+        android:title="@string/cancel"/>
+</menu>
